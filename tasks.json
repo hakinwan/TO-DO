@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Do Laundry",
+        "description": "wash all dirty clothes",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2026-10-15"
+    },
+    {
+        "title": "Buy groceries",
+        "description": "Buy chicken, fish and egg.",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2026-11-02"
+    },
+    {
+        "title": "School runs",
+        "description": "Pick kids from school.",
+        "completed": true,
+        "priority": "Low",
+        "due_date": "2026-12-26"
+    }
+]
